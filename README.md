@@ -12,7 +12,7 @@ This project is a simple application that I built as part of my day 4 homework.
 
 ## Installation
 To install this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/username/day4-homework.git`
+1. Clone the repository: `git clone https://github.com/dudi62/day4-homework.git`
 2. Navigate to the project directory: `cd day4-homework`
 3. Install dependencies: `npm install`
 
